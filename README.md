@@ -1,5 +1,11 @@
 # e-plantShopping
 
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-Apache_2.0-blue)
+
 e-plantShopping is a React and Vite web application for browsing plants and managing a shopping cart in a clean, fast storefront experience.
 
 ## Project Overview
